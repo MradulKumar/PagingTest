@@ -52,3 +52,4 @@ class DataCell: UITableViewCell {
         self.bodyLabel.text = nil
     }
 }
+
